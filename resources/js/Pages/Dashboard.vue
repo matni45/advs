@@ -7,7 +7,8 @@ import { Head } from '@inertiajs/inertia-vue3';
     <!-- <Head title="Dashboard" /> -->
 
     <BreezeAuthenticatedLayout>
-        <table class="table-auto w-full">
+        asd
+        <!-- <table class="table-auto w-full">
             <thead>
                 <tr>
                     <th>Song</th>
@@ -32,6 +33,6 @@ import { Head } from '@inertiajs/inertia-vue3';
                     <td>1975</td>
                 </tr>
             </tbody>
-        </table>
+        </table> -->
     </BreezeAuthenticatedLayout>
 </template>
